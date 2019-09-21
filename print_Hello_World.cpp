@@ -6,5 +6,7 @@ cout<<"Hello World !"<<endl;
 // this is your first changes after creating your file
 // this is your second changes after creating your file
 printf("Hello World in C and c++");
+int n;
+cin>>n;
 return 0;
 }
