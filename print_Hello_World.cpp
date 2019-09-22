@@ -8,5 +8,6 @@ cout<<"Hello World !"<<endl;
 printf("Hello World in C and c++");
 int n;
 cin>>n;
+cout<<"you typed "<<n<<endl;
 return 0;
 }
