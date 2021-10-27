@@ -1,5 +1,9 @@
 #include<iostraem>
 using namewspace std;
+int add(int x,int y)
+{
+  rerturn x+y;
+}
 int main()
 {
 cout<<"Hello World !"<<endl;
