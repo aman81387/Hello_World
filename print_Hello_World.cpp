@@ -2,7 +2,11 @@
 using namewspace std;
 int add(int x,int y)
 {
-  rerturn x+y;
+  return x+y;
+}
+int sub(int x,int y)
+{
+  return x-y;
 }
 int main()
 {
