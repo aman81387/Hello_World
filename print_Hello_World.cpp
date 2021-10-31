@@ -27,5 +27,6 @@ cin>>n;
 cout<<"you typed "<<n<<endl;
 int m;
 cin>>m;
+  cout<<add(n,m);
 return 0;
 }
