@@ -29,5 +29,6 @@ int m;
 cin>>m;
   cout<<add(n,m);
   cout<<sub(n,m);
+  cout<<mul(n,m);
 return 0;
 }
