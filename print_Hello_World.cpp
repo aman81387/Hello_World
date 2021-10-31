@@ -28,5 +28,6 @@ cout<<"you typed "<<n<<endl;
 int m;
 cin>>m;
   cout<<add(n,m);
+  cout<<sub(n,m);
 return 0;
 }
