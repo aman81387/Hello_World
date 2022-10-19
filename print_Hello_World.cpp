@@ -16,6 +16,13 @@ int div(int x,int y)
 {
   return x/y;
 }
+
+int power(int x, int y)
+{
+  return pow(x,y);
+}
+
+
 int main()
 {
 cout<<"Hello World !"<<endl;
