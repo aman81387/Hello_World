@@ -32,6 +32,18 @@ int sqr(int x)
   return power(x,2);
 }
 
+int sqrRoot(int x)
+{
+  for(int i=0;i<=x;i++)
+  {
+    if(i*i == x) return i;
+    if(i*i >x ) return i-1;
+  }
+  
+  return -1;
+  
+}
+
 int main()
 {
 cout<<"Hello World !"<<endl;
