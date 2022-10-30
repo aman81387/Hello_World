@@ -27,6 +27,11 @@ int mod(int a, int b)
   return a%b;
 }
 
+int sqr(int x)
+{
+  return power(x,2);
+}
+
 int main()
 {
 cout<<"Hello World !"<<endl;
